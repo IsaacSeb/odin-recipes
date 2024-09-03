@@ -1,3 +1,8 @@
 * {
    font-family: Monaco, monospace;  
 }
+
+h1, li {
+    text-align: center;
+    
+}
