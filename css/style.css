@@ -26,6 +26,12 @@
     margin-bottom: 15px;
 }
 
+.sub-title {
+    background: #ececec;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
 .menu-btns {
     display: block;
     margin: 8px auto 0;
