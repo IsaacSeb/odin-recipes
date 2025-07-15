@@ -45,3 +45,8 @@
 .link.two {
     margin-bottom: 10px;
 }
+
+.link a:hover {
+    background: #81929e;
+    color:#353535;
+}
