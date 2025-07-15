@@ -29,7 +29,6 @@
 .menu-btns {
     display: block;
     margin: 8px auto 0;
-    background-color: #3c6e71;
     text-align: center;
     list-style: none;
 }
@@ -39,4 +38,10 @@
     color:#fff;
     display: block;
     padding: 15px;
+    background-color: #3c6e71;
+}
+
+.link.one,
+.link.two {
+    margin-bottom: 10px;
 }
