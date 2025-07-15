@@ -40,6 +40,13 @@
     padding: 15px;
     background-color: #3c6e71;
 }
+.link-home {
+    text-decoration: none;
+    display: block;
+    color:#fff;
+    padding: 15px;
+    background-color: #3c6e71;
+}
 
 .link.one,
 .link.two {
